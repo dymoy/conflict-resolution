@@ -1,3 +1,3 @@
 # conflict-resolution
 
-- welcome to the conflict resolution file that I created on GitHub.
+- welcome to the conflict resolution file that I created on my local computer using VSCode.
